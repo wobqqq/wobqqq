@@ -53,6 +53,8 @@ I build LLM-powered features into products and use AI-assisted development daily
 | [oc-fortify-csp-plugin](https://github.com/wobqqq/oc-fortify-csp-plugin) | Content Security Policy headers against XSS and data injection |
 | [oc-fortify-input-sanitizer-plugin](https://github.com/wobqqq/oc-fortify-input-sanitizer-plugin) | Sanitization of user input against XSS and injection |
 | [oc-fortify-admin-ip-access-plugin](https://github.com/wobqqq/oc-fortify-admin-ip-access-plugin) | Admin panel access restricted to whitelisted IPs |
+| [oc-fortify-ip-blocker-plugin](https://github.com/wobqqq/oc-fortify-ip-blocker-plugin) | Blocking of malicious IP addresses and ranges |
+| [oc-fortify-smart-ip-blocker-plugin](https://github.com/wobqqq/oc-fortify-smart-ip-blocker-plugin) | Automatic blocking of suspicious IPs based on their behavior |
 | [oc-ide-helper](https://github.com/wobqqq/oc-ide-helper) | Better IDE autocompletion for October CMS projects |
 
 [![October CMS Marketplace](https://img.shields.io/badge/October_CMS_Marketplace-Wobqqq-0d0d0d?style=for-the-badge&logo=octobercms&logoColor=39FF14)](https://octobercms.com/author/Wobqqq)
