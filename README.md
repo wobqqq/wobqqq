@@ -56,4 +56,45 @@ Modular security for Laravel Nova: start with the core and add only the modules 
 | 🚫 [nova-aegis-ip-blocker](https://github.com/wobqqq/nova-aegis-ip-blocker) | Blocks listed IPs and subnets from the whole application |
 | 🚦 [nova-aegis-smart-ip-blocker](https://github.com/wobqqq/nova-aegis-smart-ip-blocker) | Rate-limits every IP and bans abusers with 429 and Retry-After |
 | 🧱 [nova-aegis-csp](https://github.com/wobqqq/nova-aegis-csp) | Content-Security-Policy for the site and Nova, edited per directive |
-| 🧹 [nova-aegis-input-sanitizer](https://github.com/wobqqq/nova-aegis-
+| 🧹 [nova-aegis-input-sanitizer](https://github.com/wobqqq/nova-aegis-input-sanitizer) | Blocks XSS, template and command injection, path traversal and null bytes |
+
+### 🏰 Featured: oc-fortify — security suite for October CMS
+
+The same security toolkit for October CMS, published on the [October CMS Marketplace](https://octobercms.com/author/Wobqqq).
+
+| Plugin | What it does |
+|---|---|
+| 🛡️ [oc-fortify-plugin](https://github.com/wobqqq/oc-fortify-plugin) | Core suite: system diagnostics, vulnerability checks, protection tools |
+| 🧱 [oc-fortify-csp-plugin](https://github.com/wobqqq/oc-fortify-csp-plugin) | Content Security Policy headers against XSS and data injection |
+| 🧹 [oc-fortify-input-sanitizer-plugin](https://github.com/wobqqq/oc-fortify-input-sanitizer-plugin) | Sanitization of user input against XSS and injection |
+| 🔐 [oc-fortify-admin-ip-access-plugin](https://github.com/wobqqq/oc-fortify-admin-ip-access-plugin) | Admin panel access restricted to whitelisted IPs |
+| 🚫 [oc-fortify-ip-blocker-plugin](https://github.com/wobqqq/oc-fortify-ip-blocker-plugin) | Manual blocking of specific IP addresses |
+| 🚦 [oc-fortify-smart-ip-blocker-plugin](https://github.com/wobqqq/oc-fortify-smart-ip-blocker-plugin) | Automatic blocking of IPs that exceed a request rate — against brute-force and traffic abuse |
+| 🧰 [oc-ide-helper](https://github.com/wobqqq/oc-ide-helper) | Better IDE autocompletion for October CMS projects |
+
+Quality bar for every Aegis and Fortify module: PHPStan at max level · Pest with 90% coverage · Rector · PHP CS Fixer · Docker toolchain · GitHub Actions CI with automated releases to the marketplace.
+
+---
+
+<p align="center">
+  <a href="https://novapackages.com/collaborators/wobqqq"><img src="https://img.shields.io/badge/Nova_Packages-wobqqq-0d0d0d?style=for-the-badge&logo=laravel&logoColor=39FF14" alt="Nova Packages"></a>
+  <a href="https://packagist.org/users/wobqqq/packages/"><img src="https://img.shields.io/badge/Packagist-wobqqq-0d0d0d?style=for-the-badge&logo=packagist&logoColor=39FF14" alt="Packagist"></a>
+  <a href="https://octobercms.com/author/Wobqqq"><img src="https://img.shields.io/badge/October_CMS_Marketplace-Wobqqq-0d0d0d?style=for-the-badge&logo=octobercms&logoColor=39FF14" alt="October CMS Marketplace"></a>
+</p>
+
+### ⚙️ Principles
+
+```text
+Code:          KISS · DRY · YAGNI · SOLID · clean, readable, maintainable code
+Architecture:  separation of concerns · loose coupling · idempotency · scalability first
+Security:      security by design · least privilege · defense in depth · never trust user input
+Delivery:      tests before refactoring · code review · automate everything (CI/CD)
+```
+
+### 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wobqqq"><img src="https://img.shields.io/badge/LinkedIn-wobqqq-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"></a>
+  <a href="https://t.me/wobqqq"><img src="https://img.shields.io/badge/Telegram-@wobqqq-0d0d0d?style=for-the-badge&logo=telegram&logoColor=39FF14" alt="Telegram"></a>
+  <a href="mailto:wobqqq@gmail.com"><img src="https://img.shields.io/badge/Email-wobqqq@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"></a>
+</p>
