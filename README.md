@@ -33,7 +33,7 @@ Open to remote opportunities — full-time and contract
   <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,bitbucket,githubactions&theme=dark" alt="DevOps and tools">
 </p>
 
-Also: OctoberCMS · Beanstalkd · Memcached · Apache · REST · GraphQL · PHPUnit · CI/CD
+Also: Laravel Nova · OctoberCMS · Beanstalkd · Memcached · Apache · REST · GraphQL · PHPUnit · Pest · PHPStan · Rector · CI/CD
 
 ### 🤖 AI in my work
 
@@ -45,31 +45,15 @@ Also: OctoberCMS · Beanstalkd · Memcached · Apache · REST · GraphQL · PHPU
 
 I build LLM-powered features into products and use AI-assisted development daily for prototyping, refactoring and tests — so I can focus on architecture, security and quality.
 
-### 🛡️ Featured: oc-fortify — security suite for October CMS
+### 🛡️ Featured: Aegis — security suite for Laravel Nova
 
-| Repository | What it does |
+Modular security for Laravel Nova: start with the core and add only the modules you need. Available on [Nova Packages](https://novapackages.com/collaborators/wobqqq) and [Packagist](https://packagist.org/users/wobqqq/packages/).
+
+| Package | What it does |
 |---|---|
-| [oc-fortify-plugin](https://github.com/wobqqq/oc-fortify-plugin) | Core suite: system diagnostics, vulnerability checks, protection tools |
-| [oc-fortify-csp-plugin](https://github.com/wobqqq/oc-fortify-csp-plugin) | Content Security Policy headers against XSS and data injection |
-| [oc-fortify-input-sanitizer-plugin](https://github.com/wobqqq/oc-fortify-input-sanitizer-plugin) | Sanitization of user input against XSS and injection |
-| [oc-fortify-admin-ip-access-plugin](https://github.com/wobqqq/oc-fortify-admin-ip-access-plugin) | Admin panel access restricted to whitelisted IPs |
-| [oc-fortify-ip-blocker-plugin](https://github.com/wobqqq/oc-fortify-ip-blocker-plugin) | Blocking of malicious IP addresses and ranges |
-| [oc-fortify-smart-ip-blocker-plugin](https://github.com/wobqqq/oc-fortify-smart-ip-blocker-plugin) | Automatic blocking of suspicious IPs based on their behavior |
-| [oc-ide-helper](https://github.com/wobqqq/oc-ide-helper) | Better IDE autocompletion for October CMS projects |
-
-[![October CMS Marketplace](https://img.shields.io/badge/October_CMS_Marketplace-Wobqqq-0d0d0d?style=for-the-badge&logo=octobercms&logoColor=39FF14)](https://octobercms.com/author/Wobqqq)
-
-### ⚙️ Principles
-
-```text
-Code:          KISS · DRY · YAGNI · SOLID · clean, readable, maintainable code
-Architecture:  separation of concerns · loose coupling · idempotency · scalability first
-Security:      security by design · least privilege · defense in depth · never trust user input
-Delivery:      tests before refactoring · code review · automate everything (CI/CD)
-```
-
-### 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-wobqqq-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/wobqqq)
-[![Telegram](https://img.shields.io/badge/Telegram-@wobqqq-0d0d0d?style=for-the-badge&logo=telegram&logoColor=39FF14)](https://t.me/wobqqq)
-[![Email](https://img.shields.io/badge/Email-wobqqq@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:wobqqq@gmail.com)
+| 🛡️ [nova-aegis](https://github.com/wobqqq/nova-aegis) | Core suite: hardens sessions, passwords and HTTPS, security checks, composer audit, exposed files, open ports and expiring TLS |
+| 🔐 [nova-aegis-admin-ip-access](https://github.com/wobqqq/nova-aegis-admin-ip-access) | Opens Nova only to whitelisted IPv4/IPv6 addresses and CIDR subnets |
+| 🚫 [nova-aegis-ip-blocker](https://github.com/wobqqq/nova-aegis-ip-blocker) | Blocks listed IPs and subnets from the whole application |
+| 🚦 [nova-aegis-smart-ip-blocker](https://github.com/wobqqq/nova-aegis-smart-ip-blocker) | Rate-limits every IP and bans abusers with 429 and Retry-After |
+| 🧱 [nova-aegis-csp](https://github.com/wobqqq/nova-aegis-csp) | Content-Security-Policy for the site and Nova, edited per directive |
+| 🧹 [nova-aegis-input-sanitizer](https://github.com/wobqqq/nova-aegis-
