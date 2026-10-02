@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="./banner.png" alt="wobqqq — Senior Software Engineer" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./banner.png">
+    <img src="./banner-light.png" alt="wobqqq — Senior Software Engineer" width="100%">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=%24+whoami;Senior+Backend+Developer+%26+Software+Architect;8%2B+years+of+building+backend+systems;Secure+%26+High-Load+Systems;AI+Integrations%3A+OpenAI+%C2%B7+Claude+%C2%B7+Gemini" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2EA44F&center=true&vCenter=true&width=700&lines=%24+whoami;Senior+Backend+Developer+%26+Software+Architect;8%2B+years+of+building+backend+systems;Secure+%26+High-Load+Systems;AI+Integrations%3A+OpenAI+%C2%B7+Claude+%C2%B7+Gemini" alt="Typing animation">
 </p>
 
 ```bash
@@ -26,31 +29,34 @@ Open to remote opportunities — full-time and contract
 ### 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,js,ts,react,graphql,mysql,postgres,mongodb,elasticsearch,redis,rabbitmq,kafka,docker,nginx,linux,git,github,gitlab,bitbucket,githubactions&theme=dark&perline=12" width="100%" alt="Tech stack">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,js,ts,react,graphql,mysql,postgres,mongodb,elasticsearch,redis,rabbitmq,kafka,docker,nginx,linux,git,github,gitlab,bitbucket,githubactions&theme=dark&perline=12">
+    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,js,ts,react,graphql,mysql,postgres,mongodb,elasticsearch,redis,rabbitmq,kafka,docker,nginx,linux,git,github,gitlab,bitbucket,githubactions&theme=light&perline=12" width="100%" alt="Tech stack">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel_Nova-0d0d0d?style=flat-square&logo=laravel&logoColor=39FF14" alt="Laravel Nova">
-  <img src="https://img.shields.io/badge/October_CMS-0d0d0d?style=flat-square&logo=octobercms&logoColor=39FF14" alt="October CMS">
-  <img src="https://img.shields.io/badge/Apache-0d0d0d?style=flat-square&logo=apache&logoColor=39FF14" alt="Apache">
-  <img src="https://img.shields.io/badge/Memcached-0d0d0d?style=flat-square" alt="Memcached">
-  <img src="https://img.shields.io/badge/Beanstalkd-0d0d0d?style=flat-square" alt="Beanstalkd">
-  <img src="https://img.shields.io/badge/REST_API-0d0d0d?style=flat-square&logo=swagger&logoColor=39FF14" alt="REST API">
-  <img src="https://img.shields.io/badge/PHPUnit-0d0d0d?style=flat-square&logo=php&logoColor=39FF14" alt="PHPUnit">
-  <img src="https://img.shields.io/badge/Pest-0d0d0d?style=flat-square&logo=php&logoColor=39FF14" alt="Pest">
-  <img src="https://img.shields.io/badge/PHPStan-0d0d0d?style=flat-square&logo=php&logoColor=39FF14" alt="PHPStan">
-  <img src="https://img.shields.io/badge/Rector-0d0d0d?style=flat-square&logo=php&logoColor=39FF14" alt="Rector">
-  <img src="https://img.shields.io/badge/CI%2FCD-0d0d0d?style=flat-square&logo=githubactions&logoColor=39FF14" alt="CI/CD">
+  <img src="https://img.shields.io/badge/Laravel_Nova-24292f?style=flat-square&logo=laravel&logoColor=3fb950" alt="Laravel Nova">
+  <img src="https://img.shields.io/badge/October_CMS-24292f?style=flat-square&logo=octobercms&logoColor=3fb950" alt="October CMS">
+  <img src="https://img.shields.io/badge/Apache-24292f?style=flat-square&logo=apache&logoColor=3fb950" alt="Apache">
+  <img src="https://img.shields.io/badge/Memcached-24292f?style=flat-square" alt="Memcached">
+  <img src="https://img.shields.io/badge/Beanstalkd-24292f?style=flat-square" alt="Beanstalkd">
+  <img src="https://img.shields.io/badge/REST_API-24292f?style=flat-square&logo=swagger&logoColor=3fb950" alt="REST API">
+  <img src="https://img.shields.io/badge/PHPUnit-24292f?style=flat-square&logo=php&logoColor=3fb950" alt="PHPUnit">
+  <img src="https://img.shields.io/badge/Pest-24292f?style=flat-square&logo=php&logoColor=3fb950" alt="Pest">
+  <img src="https://img.shields.io/badge/PHPStan-24292f?style=flat-square&logo=php&logoColor=3fb950" alt="PHPStan">
+  <img src="https://img.shields.io/badge/Rector-24292f?style=flat-square&logo=php&logoColor=3fb950" alt="Rector">
+  <img src="https://img.shields.io/badge/CI%2FCD-24292f?style=flat-square&logo=githubactions&logoColor=3fb950" alt="CI/CD">
 </p>
 
 ### 🤖 AI in my work
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI_API-0d0d0d?style=for-the-badge&logo=openai&logoColor=39FF14" alt="OpenAI API">
-  <img src="https://img.shields.io/badge/Claude_API-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=39FF14" alt="Claude API">
-  <img src="https://img.shields.io/badge/Gemini_API-0d0d0d?style=for-the-badge&logo=googlegemini&logoColor=39FF14" alt="Gemini API">
-  <img src="https://img.shields.io/badge/Claude_Code-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=39FF14" alt="Claude Code">
-  <img src="https://img.shields.io/badge/GitHub_Copilot-0d0d0d?style=for-the-badge&logo=githubcopilot&logoColor=39FF14" alt="GitHub Copilot">
+  <img src="https://img.shields.io/badge/OpenAI_API-24292f?style=for-the-badge&logo=openai&logoColor=3fb950" alt="OpenAI API">
+  <img src="https://img.shields.io/badge/Claude_API-24292f?style=for-the-badge&logo=anthropic&logoColor=3fb950" alt="Claude API">
+  <img src="https://img.shields.io/badge/Gemini_API-24292f?style=for-the-badge&logo=googlegemini&logoColor=3fb950" alt="Gemini API">
+  <img src="https://img.shields.io/badge/Claude_Code-24292f?style=for-the-badge&logo=anthropic&logoColor=3fb950" alt="Claude Code">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-24292f?style=for-the-badge&logo=githubcopilot&logoColor=3fb950" alt="GitHub Copilot">
 </p>
 
 I build LLM-powered features into products and use AI-assisted development daily for prototyping, refactoring and tests — so I can focus on architecture, security and quality.
@@ -87,9 +93,9 @@ Quality bar for every Aegis and Fortify module: PHPStan at max level · Pest wit
 ---
 
 <p align="center">
-  <a href="https://novapackages.com/collaborators/wobqqq"><img src="https://img.shields.io/badge/Nova_Packages-wobqqq-0d0d0d?style=for-the-badge&logo=laravel&logoColor=39FF14" alt="Nova Packages"></a>
-  <a href="https://packagist.org/users/wobqqq/packages/"><img src="https://img.shields.io/badge/Packagist-wobqqq-0d0d0d?style=for-the-badge&logo=packagist&logoColor=39FF14" alt="Packagist"></a>
-  <a href="https://octobercms.com/author/Wobqqq"><img src="https://img.shields.io/badge/October_CMS_Marketplace-Wobqqq-0d0d0d?style=for-the-badge&logo=octobercms&logoColor=39FF14" alt="October CMS Marketplace"></a>
+  <a href="https://novapackages.com/collaborators/wobqqq"><img src="https://img.shields.io/badge/Nova_Packages-wobqqq-24292f?style=for-the-badge&logo=laravel&logoColor=3fb950" alt="Nova Packages"></a>
+  <a href="https://packagist.org/users/wobqqq/packages/"><img src="https://img.shields.io/badge/Packagist-wobqqq-24292f?style=for-the-badge&logo=packagist&logoColor=3fb950" alt="Packagist"></a>
+  <a href="https://octobercms.com/author/Wobqqq"><img src="https://img.shields.io/badge/October_CMS_Marketplace-Wobqqq-24292f?style=for-the-badge&logo=octobercms&logoColor=3fb950" alt="October CMS Marketplace"></a>
 </p>
 
 ### ⚙️ Principles
@@ -104,7 +110,7 @@ Delivery:      tests before refactoring · code review · automate everything (C
 ### 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wobqqq"><img src="https://img.shields.io/badge/LinkedIn-wobqqq-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"></a>
-  <a href="https://t.me/wobqqq"><img src="https://img.shields.io/badge/Telegram-@wobqqq-0d0d0d?style=for-the-badge&logo=telegram&logoColor=39FF14" alt="Telegram"></a>
-  <a href="mailto:wobqqq@gmail.com"><img src="https://img.shields.io/badge/Email-wobqqq@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/wobqqq"><img src="https://img.shields.io/badge/LinkedIn-wobqqq-24292f?style=for-the-badge&logo=linkedin&logoColor=3fb950" alt="LinkedIn"></a>
+  <a href="https://t.me/wobqqq"><img src="https://img.shields.io/badge/Telegram-@wobqqq-24292f?style=for-the-badge&logo=telegram&logoColor=3fb950" alt="Telegram"></a>
+  <a href="mailto:wobqqq@gmail.com"><img src="https://img.shields.io/badge/Email-wobqqq@gmail.com-24292f?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Email"></a>
 </p>
