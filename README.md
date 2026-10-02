@@ -25,23 +25,33 @@ Open to remote opportunities — full-time and contract
 
 ### 🛠 Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,js,ts,react&theme=dark" alt="Languages and frameworks">
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,elasticsearch,redis,rabbitmq,kafka&theme=dark" alt="Databases and queues">
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,bitbucket,githubactions&theme=dark" alt="DevOps and tools">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,js,ts,react,graphql,mysql,postgres,mongodb,elasticsearch,redis,rabbitmq,kafka,docker,nginx,linux,git,github,gitlab,bitbucket,githubactions&theme=dark&perline=12" width="100%" alt="Tech stack">
 </p>
 
-Also: Laravel Nova · OctoberCMS · Beanstalkd · Memcached · Apache · REST · GraphQL · PHPUnit · Pest · PHPStan · Rector · CI/CD
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel_Nova-0d0d0d?style=flat-square&logo=laravel&logoColor=39FF14" alt="Laravel Nova">
+  <img src="https://img.shields.io/badge/October_CMS-0d0d0d?style=flat-square&logo=octobercms&logoColor=39FF14" alt="October CMS">
+  <img src="https://img.shields.io/badge/Apache-0d0d0d?style=flat-square&logo=apache&logoColor=39FF14" alt="Apache">
+  <img src="https://img.shields.io/badge/Memcached-0d0d0d?style=flat-square" alt="Memcached">
+  <img src="https://img.shields.io/badge/Beanstalkd-0d0d0d?style=flat-square" alt="Beanstalkd">
+  <img src="https://img.shields.io/badge/REST_API-0d0d0d?style=flat-square&logo=swagger&logoColor=39FF14" alt="REST API">
+  <img src="https://img.shields.io/badge/PHPUnit-0d0d0d?style=flat-square&logo=php&logoColor=39FF14" alt="PHPUnit">
+  <img src="https://img.shields.io/badge/Pest-0d0d0d?style=flat-square&logo=php&logoColor=39FF14" alt="Pest">
+  <img src="https://img.shields.io/badge/PHPStan-0d0d0d?style=flat-square&logo=php&logoColor=39FF14" alt="PHPStan">
+  <img src="https://img.shields.io/badge/Rector-0d0d0d?style=flat-square&logo=php&logoColor=39FF14" alt="Rector">
+  <img src="https://img.shields.io/badge/CI%2FCD-0d0d0d?style=flat-square&logo=githubactions&logoColor=39FF14" alt="CI/CD">
+</p>
 
 ### 🤖 AI in my work
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0d0d0d?style=for-the-badge&logo=openai&logoColor=39FF14)
-![Claude](https://img.shields.io/badge/Claude_API-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=39FF14)
-![Gemini](https://img.shields.io/badge/Gemini_API-0d0d0d?style=for-the-badge&logo=googlegemini&logoColor=39FF14)
-![Claude Code](https://img.shields.io/badge/Claude_Code-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=39FF14)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-0d0d0d?style=for-the-badge&logo=githubcopilot&logoColor=39FF14)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_API-0d0d0d?style=for-the-badge&logo=openai&logoColor=39FF14" alt="OpenAI API">
+  <img src="https://img.shields.io/badge/Claude_API-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=39FF14" alt="Claude API">
+  <img src="https://img.shields.io/badge/Gemini_API-0d0d0d?style=for-the-badge&logo=googlegemini&logoColor=39FF14" alt="Gemini API">
+  <img src="https://img.shields.io/badge/Claude_Code-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=39FF14" alt="Claude Code">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-0d0d0d?style=for-the-badge&logo=githubcopilot&logoColor=39FF14" alt="GitHub Copilot">
+</p>
 
 I build LLM-powered features into products and use AI-assisted development daily for prototyping, refactoring and tests — so I can focus on architecture, security and quality.
 
